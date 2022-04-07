@@ -1,0 +1,13 @@
+Variables: es un "contenedor" al que le ponemos un nombre y que nos sirva para guardar algun valor y usarlo mas tarde. Se le asigna la palabra "var" y se le da un contenido con "=". Hay 3 tipos: VAR (puede cambiar, variar), LET (funcionan a nivel de "scope") y CONST (constantes, no cambian) 
+
+Strings: se utiliza para representar y manipular un conjunto de caracteres, estos pueden ser letras, numeros o ambos. Debe ir entre comillas ya sean dobles o simples.
+
+Funciones: es un conjunto de instrucciones que realiza una tarea o calcula un valor. Debe tomar alguna entrada y devolver una salida donde hay alguna relación obvia entre la entrada y la salida.
+
+Argumentos: son los valores que se pasan a la funcion cuando esta es invocada
+
+Return: la sentencia return finaliza la ejecicion de la funcion y especifica un valor para ser devuelto a quien llama a la funcion
+
+Declaraciones `if`: es utilizada para tomar decisiones. Primero se evalua una expresion, si su resultado es positivo se realizan acciones con el caso positivo
+
+Valores booleanos: solo da dos posibilidades, verdadero o falso
