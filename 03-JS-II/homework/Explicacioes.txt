@@ -1,0 +1,7 @@
+FOR: es un bucle, se utiliza para repetir una o mas instrucciones en un numero determinado de veces hasta que este de falso.
+
+&&: se entiende como si fuera un "y". En un IF se puede añadir este operador para que vez de una sola condicion se cumplan 2 o mas.
+
+||: es llamado "OR", se efectua siempre y cuando alguno de los valores (true o false) sea verdadero
+
+!: es el operador NOT, se utiliza para comprobar que no se de la condicion determinada.
